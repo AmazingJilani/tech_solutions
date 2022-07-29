@@ -1,0 +1,31 @@
+email send /*
+<input type="hidden" name="_captcha" value="false">
+
+action="bat/rd-mailform.php"
+    "useSmtp": false,
+
+/* change values in script .js
+
+mf000 to mf255
+mf255 to mf000
+
+links to videos about
+
+1. change place holders and required
+https://www.youtube.com/watch?v=4UT73mBLV2A
+
+2. Validation of special characters
+https://www.youtube.com/watch?v=NsG2hY0TQ98
+
+3. Activate tmform
+https://www.youtube.com/watch?v=cYaxq4qNb4E
+
+4.troubleshoot rd contact form
+https://www.templatemonster.com/help/js-animated-troubleshooter-rd-contact-form-does-not-work-on-php-5-2-x-5-3-x.html
+https://www.youtube.com/watch?v=amAUe8iLzkY
+
+5.change popup text
+https://www.youtube.com/watch?v=KejGj02x6IY
+
+6.
+
